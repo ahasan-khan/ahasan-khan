@@ -78,8 +78,8 @@
 
 
 <a href="https://github.com/ahasan-khan/OnlineExam_Servlet_Jsp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahasan-khan&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahasan-khan&repo=OnlineExam_Servlet_Jsp&theme=algolia" />
 </a>
 <a href="https://github.com/ahasan-khan/Socialcalenders_Next">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahasan-khan&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahasan-khan&repo=OnlineExam_Servlet_Jsp&theme=algolia" />
 </a>
